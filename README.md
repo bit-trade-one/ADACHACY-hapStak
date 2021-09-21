@@ -75,8 +75,10 @@ exp.
 [BTO公式]()  
 [Twitter作例1]()  
 [Twitter作例2]()  
-[ブログ作例1]()  
-[ブログ作例1]()  
+[ブログ作例1](M5 atom のセットアップ)  
+https://qiita.com/eeldog/private/4048234a3f134ed11723
+[ブログ作例1](M5 atom を使って振動を発生させてみる。)  
+https://qiita.com/eeldog/private/99c412695df9b6c6447c
 
 ## 雑誌掲載情報
 
