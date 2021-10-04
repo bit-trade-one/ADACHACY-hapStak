@@ -15,7 +15,7 @@
 
 ## [M5 atom の動作マニュアルはこちら](https://qiita.com/eeldog/private/99c412695df9b6c6447c)
 
-## [Q&A](https://github.com/bit-trade-one/-ADXXXXX-Template/blob/master/FAQ.md)
+## [Q&A](https://github.com/bit-trade-one/ADACHACY-hapStak/blob/master/FAQ.md)
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
