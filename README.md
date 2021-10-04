@@ -1,11 +1,15 @@
-# -ADCHACY-hapStak
+# ADCHACY-hapStak
 
 ## ニュー触感デバイス!
 
-![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/hapStak-Bn-BIG.png)
+![タイトル画像のURLを右のカッコに](https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/hapStak-Bn-BIG.png)  
+「触感デバイス開発/体感モジュール“hapStak“」は振動アクチュエーターと  
+駆動回路がセットになった、振動による触感再現を手軽に扱うためのモジュール。  
+フォスター電機が開発した最新のアクチュエーター「FOSTER ACOUSTICHAPTIC®」を採用、  
+従来のモジュールにはない「広域振動」「低遅延」「静粛性」の3拍子併せ持った  
+万能アクチュエーターとして様々な触感を生み出します。
 
-
-# [製品の詳細はこちら](https://bit-trade-one.co.jp/hapstak/) 
+## [製品の詳細はこちら](https://bit-trade-one.co.jp/hapstak/) 
 
 ## [M5 atom のセットアップマニュアルはこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)
 
