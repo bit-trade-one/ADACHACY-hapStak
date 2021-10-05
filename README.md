@@ -35,8 +35,8 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 ### [変換ツールはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/converter)  
 
 ### [ケースデータ](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/svg)　　
-### [回路図](---)　
-### [基板図](---)　
+
+### [回路図・基板図](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Schematics/digital)　
 ---
 　　
 # アナログ版　
@@ -53,8 +53,8 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/35b65d13ea30bc35d6a3fa14b9888c4b.jpg" width="720px">  　
   
 
-### [回路図](---)　
-### [基板図](---)　
+### [回路図・基板図](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Schematics/analog)　
+
 ---
 ## 製品仕様
 基本仕様
