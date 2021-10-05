@@ -42,7 +42,7 @@
 　　
 # アナログ版　
   
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/09/ADTEDCY_SUB1-EF.png" width="420px"> 
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/ADTEDCY_SUB1-EF2.jpg" width="420px"> 
   
 #### アンプを搭載しているため、音声信号入力のみでアクチュエータを振動させることが出来ます。　
 
