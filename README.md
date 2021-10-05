@@ -24,7 +24,7 @@
 
 ## 端子情報　
 
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/d59c8c71317cfba99d89487564502b4f.jpg" width="720px">  
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/DSC02596_2.jpg" width="720px">  
 
 ## [M5 atom のセットアップ方法はこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)
 
