@@ -1,6 +1,6 @@
-# よくある質問
+# ADACHACY-hapStakよくある質問
 
-## ADACHACY-hapStakデジタル版 
+## デジタル版 
 
 
 ## Q.notext
@@ -11,7 +11,7 @@ notext
 
 ----
 
-## ADACHACY-hapStakアナログ版 よくある質問
+## アナログ版 
 
 
 ## Q.notext
