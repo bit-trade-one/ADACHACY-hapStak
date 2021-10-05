@@ -14,8 +14,8 @@
 # デジタル版　
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/DSC02596_2.jpg" width="320px">  
 
-#### M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュールを駆動する事ができるため、
-#### コンパクトなデバイス作成が可能です。MDF製の組立ボードも付属。  
+M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュールを駆動する事ができるため、  
+コンパクトなデバイス作成が可能です。MDF製の組立ボードも付属。  
   
 
 >ご注意！   デジタル版  
@@ -24,36 +24,37 @@
 
 ## 端子情報　
 
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/DSC02596_2.jpg" width="720px">  
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/d59c8c71317cfba99d89487564502b4f.jpg" width="720px">  
 
-## [M5 atom のセットアップ方法はこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)
+### [M5 atom のセットアップ方法はこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)
 
-## [M5 atom の動作方法はこちら](https://qiita.com/eeldog/private/99c412695df9b6c6447c)
-
-
+### [M5 atom の動作方法はこちら](https://qiita.com/eeldog/private/99c412695df9b6c6447c)
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
 ### [変換ツールはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/converter)  
 
-### [ケースデータはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/svg)　　
-
+### [ケースデータ](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/svg)　　
+### [回路図](---)　
+### [基板図](---)　
 ---
 　　
 # アナログ版　
   
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/ADTEDCY_SUB1-EF2.jpg" width="420px"> 
   
-#### アンプを搭載しているため、音声信号入力のみでアクチュエータを振動させることが出来ます。　
+アンプを搭載しているため、音声信号入力のみでアクチュエータを振動させることが出来ます。　
 
 >ご注意！アナログ版  
 >本製品はアクチュエーターと駆動回路がセットになったモジュール製品です。  
 >音源を再生する装置はご自身でご用意ください。USB電源端子と電池ボックスからの給電は排他となり同時使用はできません。　
 
 ## 端子情報
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/35b65d13ea30bc35d6a3fa14b9888c4b.jpg" width="720px"> 
-　　
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/35b65d13ea30bc35d6a3fa14b9888c4b.jpg" width="720px">  　
+  
 
+### [回路図](---)　
+### [基板図](---)　
 ---
 ## 製品仕様
 基本仕様
