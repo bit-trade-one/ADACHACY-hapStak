@@ -26,9 +26,9 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/d59c8c71317cfba99d89487564502b4f.jpg" width="720px">  
 
-### [M5 atom のセットアップ方法はこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)
+### [M5 atom のセットアップ方法はこちら](https://qiita.com/eeldog/private/4048234a3f134ed11723)(外部サイトへ遷移）
 
-### [M5 atom を用いた音の鳴らし方](https://qiita.com/eeldog/private/99c412695df9b6c6447c)
+### [M5 atom を用いた音の鳴らし方](https://qiita.com/eeldog/private/99c412695df9b6c6447c)(外部サイトへ遷移）
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
