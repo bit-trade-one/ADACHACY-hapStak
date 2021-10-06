@@ -30,6 +30,8 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [M5 atom を用いた音の鳴らし方](https://qiita.com/eeldog/private/99c412695df9b6c6447c)(外部サイトへ遷移）
 
+### [ArduinoMKRZero を用いた音の鳴らし方](https://qiita.com/eeldog/private/286d1e968b8773e05475)(外部サイトへ遷移）
+
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
 ### [変換ツールはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/converter)  
