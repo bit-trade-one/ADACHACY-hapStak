@@ -57,6 +57,10 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [回路図・基板図](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Schematics/analog)　
 
+### [サンプル動画①プラコップ](https://youtu.be/OYqQZCnmybw)(外部サイトへ遷移）
+
+### [サンプル動画②バドミントン](https://youtu.be/dnwXpK6lNK8)(外部サイトへ遷移）
+
 ---
 ## 製品仕様
 基本仕様
