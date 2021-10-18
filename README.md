@@ -12,6 +12,7 @@
 ## [Q&A](https://github.com/bit-trade-one/ADACHACY-hapStak/blob/master/FAQ.md)
 　　
 # デジタル版　
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/9f3637a517794bdd1cc20c901913476b.jpg" width="320px">  
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/DSC02596_2.jpg" width="320px">  
 
 M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュールを駆動する事ができるため、  
