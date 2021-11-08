@@ -1,4 +1,4 @@
-##  [MDFケースの簡易組立ガイド](https://bit-trade-one.co.jp/hapstakmdfbuild/)(外部サイトへ遷移）
+##  [MDFケースの簡易組立ガイドはこちら](https://bit-trade-one.co.jp/hapstakmdfbuild/)(外部サイトへ遷移）
 
 ## 展開図 
 ### [ADACHA_digital_Housing.png](https://github.com/bit-trade-one/ADACHACY-hapStak/blob/master/svg/ADACHA_digital_Housing.png)　 
