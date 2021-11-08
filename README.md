@@ -33,6 +33,8 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [ArduinoMKRZero を用いた音の鳴らし方](https://qiita.com/eeldog/private/286d1e968b8773e05475)(外部サイトへ遷移）
 
+### [MDFケースの簡易組立ガイド](https://bit-trade-one.co.jp/hapstakmdfbuild/)(外部サイトへ遷移）
+
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
 ### [変換ツールはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/converter)  
