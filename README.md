@@ -55,7 +55,7 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 >音源を再生する装置はご自身でご用意ください。USB電源端子と電池ボックスからの給電は排他となり同時使用はできません。　
 
 ## 端子情報
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/35b65d13ea30bc35d6a3fa14b9888c4b.jpg" width="720px">  　
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/アナログ各部.jpg" width="720px">  　
   
 
 ### [回路図・基板図](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Schematics/analog)　
@@ -70,7 +70,6 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
  
 【搭載アクチュエーター】フォスター電機 ACOUSTICHAPTIC® 639897  
 【搭載アンプ】デジタル版：NS4168  
-アナログ版：PAM8012  
 【対応マイコンボード】M5StackAtom/Lite/Matrix/Echo(Echo付属スピーカー発音有）、ArduinoMKRZero  
 【必要電力】約1W   
 （デジタル版:マイコンボードより供給、アナログ版:USBもしくは付属電池ボックスより供給）  
