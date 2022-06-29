@@ -36,6 +36,9 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
+### [14種のSignal Patternsを試せる作例はこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/hapStakDemo)  
+
+
 ### [変換ツールはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/converter)  
 
 ### [ケースデータ](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/svg)　　
