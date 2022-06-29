@@ -47,4 +47,4 @@ Arduino IDEの「ファイル」「開く」から予めダウンロード済み
 ![picture 2](../images/e57135b2a9183bd8201bfc908707f5ecdba7b1e4cdb3e1b5d3fca59896fa6499.png)  
 
 - ビルドとインストール<BR>
-「スケッチ」「マイコンボードに書き込む」からビルドとインストールを実施します。以降は、[HapStackDemo Instruction](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/hapStakDemo/hapStakDemo_Instruction.pdf)に従ってください。
+「スケッチ」「マイコンボードに書き込む」からビルドとインストールを実施します。以降は、[HapStackDemo Instruction](https://github.com/bit-trade-one/ADACHACY-hapStak/blob/master/hapStakDemo/hapStakDemo%20Instruction.pdf)に従ってください。
