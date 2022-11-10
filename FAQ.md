@@ -35,7 +35,7 @@ notext
 
 ## Q.出力端子のどちらが+ですか？
 
-### A.画像をご参考願います
+### A.画像をご参照願います
 ![image](https://user-images.githubusercontent.com/85532743/201053390-e475e511-d067-40c7-921f-9c59922092f9.png)
 
 
