@@ -15,7 +15,7 @@
 <img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/9f3637a517794bdd1cc20c901913476b.jpg" width="320px"><img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2021/10/DSC02596_2.jpg" width="320px">  
 
 M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュールを駆動する事ができるため、  
-コンパクトなデバイス作成が可能です。MDF製の組立ボードも付属。  
+コンパクトなデバイス作成が可能です。木製の組立ボードも付属。  
   
 
 >ご注意！   デジタル版  
@@ -32,7 +32,7 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [ArduinoMKRZero を用いた音の鳴らし方](https://qiita.com/eeldog/private/286d1e968b8773e05475)(外部サイトへ遷移）
 
-### [MDFケースの簡易組立ガイド](https://bit-trade-one.co.jp/hapstakmdfbuild/)(外部サイトへ遷移）
+### [組み立て式ケースの簡易ガイド](https://bit-trade-one.co.jp/hapstakmdfbuild/)(外部サイトへ遷移）
 
 ### [サンプルコードはこちら](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Samples)  
 
