@@ -47,7 +47,7 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [3Dプリント用ケース配布](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/3Dprint_Case)　
 
-### [発展的なデモソース](https://github.com/bit-trade-one/hapstak_3D_DEMO)　
+### [発展的なデモソース(GNU GPLv3.0)](https://github.com/bit-trade-one/hapstak_3D_DEMO)　
 
 
 ---
