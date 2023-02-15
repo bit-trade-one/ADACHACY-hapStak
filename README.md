@@ -45,7 +45,9 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 
 ### [回路図・基板図](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/Schematics/digital)　
 
-### [発展的なデモ(ソース・3Dデータ配布)](https://github.com/bit-trade-one/hapstak_3D_DEMO)　
+### [発展的なデモソース](https://github.com/bit-trade-one/hapstak_3D_DEMO)　
+
+### [3Dプリント用ケース配布](https://github.com/bit-trade-one/ADACHACY-hapStak/tree/master/3Dprint_Case)　
 ---
 　　
 # アナログ版　
