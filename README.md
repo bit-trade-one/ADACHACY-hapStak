@@ -76,6 +76,10 @@ M5StackAtomや、ArduinoMKRZeroからのI2S信号により直接モジュール�
 ## 作例
 ・[特定の方向に引っ張られているかのような錯覚を起こすサンプル](https://github.com/stake2722/HapStak_Pullusion/?fbclid=IwAR3_AuXXpM6jU5bLQkxlD852dpKlxqUurUNcO8WBT7jsu5F_fSotosPQlS4) (stake2722様作)
 
+[「ｈ.tanaka」様 /](https://x.com/hide63414/status/1664280147862884352?s=61&t=K7_oe2BjRKS2lTFRml1X2A)
+
+
+
 ---
 ## 製品仕様
 基本仕様
